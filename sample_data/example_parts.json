@@ -1,0 +1,8 @@
+{
+  "parts": [
+    {"id": "WH_FRONT_ALLOY", "name": "Front Alloy Wheel"},
+    {"id": "SUNROOF", "name": "Sunroof"},
+    {"id": "LED_HEADLAMP", "name": "LED Headlamp"},
+    {"id": "REAR_CAMERA", "name": "Rear Camera"}
+  ]
+}
