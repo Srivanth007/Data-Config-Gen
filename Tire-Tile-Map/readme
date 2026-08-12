@@ -1,1 +1,1 @@
-
+pip install PySide6 opencv-python numpy
